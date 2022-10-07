@@ -62,4 +62,4 @@ This challenge was based around a storage bot in the DUCTF discord server. It po
 in the source code on GitHub you can look at how the bot processes commands and how it decides who an organiser is. I invited it to a server and made myself an 
 organiser. The file name in the bot's create function didn’t get put through quote so you could use a little command expansion but it would make it all caps so you 
 couldn’t use letters or it wouldn't be treated as a command. But it doesn’t change special characters or numbers so you can use octal and create a file named cat 
-/flag/flag.txt > F or `$'\143\141\164' $'\57\146\154\141\147\57\146\154\141\147\56\164\170\164' > F`,  then open the F with the bot. 
+/flag/flag.txt > F or `$'\143\141\164' $'\57\146\154\141\147\57\146\154\141\147\56\164\170\164' > F`,  then open F with the bot. 
