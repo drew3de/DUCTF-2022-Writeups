@@ -8,6 +8,7 @@ Category: rev
 Points: 50
 
 In this challenge we were provided with an assembly file which i essentially translated to python in order to get the flag. 
+Python script: https://github.com/etselect/DUCTF-2022-Writeups/blob/main/source_provided.py
 
 
 ### Legit App Not Ransomware 
