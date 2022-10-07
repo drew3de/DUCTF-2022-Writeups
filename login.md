@@ -77,5 +77,3 @@ void add_user() {
     read_n_delimited(user->username, len, '\n');
 }
 ```
-
-Here user is only allocated the size of user_t
